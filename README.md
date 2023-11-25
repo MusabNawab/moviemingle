@@ -1,19 +1,8 @@
-# moviemingle
 
-A new Flutter project.
+# MovieMingle
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### APK File: [click here](https://drive.google.com/file/d/1YTv9l4KXEgcHlLoMX1zkh9KHuayy5-uk/view?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
+### App Video: [click here](https://drive.google.com/file/d/1wYfnYBcaC5zdkaeDvVZnkWqSehdtUN0u/view?usp=sharing)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# moviemingle
-# moviemingle
-# moviemingle
